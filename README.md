@@ -4,5 +4,5 @@ Pradine meniu turi trys pasirinkimus.
 3. ISejimas
 
 PASPAUDUS bilietu tikrinima yra atvaizduojamas sarasiukas is kurio galima pateikti bilieta patikrai.
-bilietas praeina bazine bilieto patikra jei bilietas laimingas yra sutikrinamas jo sertifikatas ir tik tada isduodamas laimejimas.
+bilietas praeina bazine bilieto patikra pagal uzduoties salyga, jei bilietas laimingas yra sutikrinamas jo sertifikatas ir tik tada isduodamas laimejimas.
 po laimejimo nutraukiamas tolimesnis funkcionalumas pagal salyga ir isvedama visa informacija apie vartotoja.
