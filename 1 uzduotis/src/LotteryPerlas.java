@@ -40,7 +40,7 @@ public class LotteryPerlas extends TicketFunction
             System.out.println("Pasirinkite veiksma");
             if(!scanner.hasNextInt()) {
                 System.out.println("Klaida! Prašome įvesti tik skaičių.");
-                scanner.next(); // Išvalome blogą įvestį
+                scanner.next(); 
                 continue;
             }
             int command = scanner.nextInt();
