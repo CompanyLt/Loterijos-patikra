@@ -5,11 +5,11 @@ public class LotteryPerlas extends Navigation
 {
     public final ISertificateService certificateService;
     public final ITicketBuyService ticketbuyService;
-    ArrayList<Certificate> certificates;
+
     Scanner scanner ;
 
     public LotteryPerlas(ISertificateService _certificateService,ITicketBuyService _ticketBuyService){
-        certificates=new ArrayList<>();
+        
         certificateService = _certificateService;
         ticketbuyService = _ticketBuyService;
         scanner = new Scanner(System.in);
